@@ -1,3 +1,7 @@
+# NOTE
+
+This repo is currently public, but it may be moved to some private organization later.
+
 # How to run:
 
 ```
